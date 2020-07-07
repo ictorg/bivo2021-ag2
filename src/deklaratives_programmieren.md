@@ -19,7 +19,7 @@ Umsetzungsvarianten für Applikationen entwerfen und Lösung konzeptionell ausar
 
 ## Handlungsnotwendige Kenntnisse
 aus g4.1: Sie zeigen grundlegende Umsetzungsvarianten in Bezug auf die Implementierung anhand von Skizzen und Beschreibungen auf. (K5) 
---> g4.1: Kennt grundlegende Umsetzungsvarianten in Bezug auf die Implementierung anhand von Skizzen und Beschreibungen. (K3) 
+--> g4.1: Kennt grundlegende Umsetzungsvarianten in Bezug auf die Implementierung anhand von Skizzen und Beschreibungen. (K5) 
 
 aus g4.2: Sie erstellen in Zusammenarbeit mit dem Stakeholder eine nachvollziehbare Nutzwertanalyse mit sinnvollen, bewertbaren Entscheidungskriterien. (K4) 
 --> g4.2: Kennt in Möglichkeiten um in Zusammenarbeit mit dem Stakeholder eine nachvollziehbare Nutzwertanalyse mit sinnvollen, bewertbaren Entscheidungskriterien zu erstellen. (K3) 
@@ -70,7 +70,7 @@ Applikation mit Front-End und Back-End
 3  / drittes Lehrjahr
 
 ## Voraussetzungen
-Grundlagen der Programmierung, Objektorientiertes Programmieren
+Grundlagen der Programmierung
 
 ## Anzahl Lektionen
 40
