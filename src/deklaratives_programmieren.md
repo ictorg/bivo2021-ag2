@@ -5,6 +5,16 @@
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/deklarative-programmierung/ *
 * https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/ *
 
+Funktioniert so lange gut, wie die Spezifikationen des Endzustands klar definiert sind und ein passendes Ausführungsverfahren existiert, also z.B. für Algorithmen (M411)
+
+Kennt Unterschied zw. funktionaler(deklarativer) und imperativer Programmierung.
+Kennt Vor- und Nachteile funktionaler Programmierung.
+Kennt Methoden um Endzustand zu spezifizieren.
+Kann eine bestehende funktionale Einheit durch eine verbesserte Variante austauschen ohne dass Seiteneffekte entstehen.
+Kann geeigneten imprativ verfassten Code durch funktionalen Code ersetzen. 
+Kann funktionalen Code lesen, verstehen und warten bzw. erweitern.
+Kennt die funktionalen Elemente einer gängigen OO-Sprache und kann so Applikationen mit beiden Paradigmen in Mischform entwickeln.
+
 M O D U L D E F I N I T I O N
 # Deklaratives Programmieren
 
