@@ -15,7 +15,8 @@ Kann geeigneten imprativ verfassten Code durch funktionalen Code ersetzen.
 Kann funktionalen Code lesen, verstehen und warten bzw. erweitern.  
 Kennt die funktionalen Elemente einer gängigen OO-Sprache und kann so Applikationen mit beiden Paradigmen in Mischform entwickeln.   
 Kann bekannte Programmiersprachen daraufhin untersuchen, ob diese funktionales Programmieren ermöglichen, und Lambdas und Closures unterstützen.  
-Kennt wesentliche Begriffe aus dem funktionalen Programmieren, wie Pure-Function, Immutable Data, Lamda-Expression, Function, Functor, Closure und kann diese in Beschreibungen korrekt verwenden.
+Kennt wesentliche Begriffe aus dem funktionalen Programmieren, wie Pure-Function, Immutable Data, Lamda-Expression, Function, Functor, Closure und kann diese in Beschreibungen korrekt verwenden.  
+Kennt das funktionale Programmierkonzept von filter-map-reduce und kann dieses in paralleller oder verteilter Abarbeitung anwenden.   
 
 # Funktional Programmieren (vorher:Deklaratives Programmieren)
 
