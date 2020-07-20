@@ -23,20 +23,14 @@ Kennt das funktionale Programmierkonzept von filter-map-reduce und kann dieses i
 ## Kompetenz
 Schnittstellen und Teile von Applikationen deklarativ beschreiben und funktional implementieren.
 
-## Handlungsziel 
+## Handlungsziel und Handlungsnotwendige Kenntnisse
 1. Umsetzungsvarianten für Applikationen entwerfen und Lösung konzeptionell ausarbeiten.
-
-## Handlungsnotwendige Kenntnisse
-1. Kennt grundlegende Umsetzungsvarianten in Bezug auf die Implementierung anhand von Skizzen und Beschreibungen.
-  1. Kennt in Möglichkeiten um in Zusammenarbeit mit dem Stakeholder eine nachvollziehbare Nutzwertanalyse mit sinnvollen, bewertbaren Entscheidungskriterien zu erstellen.
-  1. Kennt die Möglichkeiten zur Beratung mit den Stakeholder zur  Entscheidungsfindung für eine optimale, ethisch und rechtlich vertretbare Lösung zu finden.
-  1. Kennt die Möglichkeiten zur Erarbeitung eines fachlichen und technischen Realisierungskonzeptes anhand von geeigneten Hilfsmitteln.
-  1. Kennt Methoden und Techniken zur Durchführung einer Machbarkeitsanalyse für die gewählte Umsetzungsvariante. (K4)
-
-## Handlungsziel
+   1. Kennt grundlegende Umsetzungsvarianten in Bezug auf die Implementierung anhand von Skizzen und Beschreibungen.
+   1. Kennt in Möglichkeiten um in Zusammenarbeit mit dem Stakeholder eine nachvollziehbare Nutzwertanalyse mit sinnvollen, bewertbaren Entscheidungskriterien zu erstellen.
+   1. Kennt die Möglichkeiten zur Beratung mit den Stakeholder zur  Entscheidungsfindung für eine optimale, ethisch und rechtlich vertretbare Lösung zu finden.
+   1. Kennt die Möglichkeiten zur Erarbeitung eines fachlichen und technischen Realisierungskonzeptes anhand von geeigneten Hilfsmitteln.
+   1. Kennt Methoden und Techniken zur Durchführung einer Machbarkeitsanalyse für die gewählte Umsetzungsvariante. (K4)
 1. Applikationen und Schnittstellen gemäss Entwurf implementieren und dabei die Sicherheitsanforderungen erfüllen.
-
-## Handlungsnotwendige Kenntnisse
 1. Kennt geeignete Entwicklungs- und Laufzeitumgebung und richtet sie anhand des Realisierungskonzepts sowie Firmenvorgaben ein.
   1. Sie programmieren ein Back-End mittels vorgegebener Programmiersprachen effizient, strukturiert und gemäss den relevanten Vorgaben.
   1. Sie programmieren ein Front-End mittels vorgegebener Programmiersprachen effizient, strukturiert und gemäss den relevanten Vorgaben. 
@@ -56,7 +50,7 @@ Anwendung mit 3-5 funktionalen Einheiten
 3
 
 ## Voraussetzungen
-Grundlagen der Programmierung
+Grundlagen der Programmierung  
 Strukturierte Programmierung
 
 ## Anzahl Lektionen
