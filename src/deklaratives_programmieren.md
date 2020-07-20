@@ -14,6 +14,7 @@ Kann eine bestehende funktionale Einheit durch eine verbesserte Variante austaus
 Kann geeigneten imprativ verfassten Code durch funktionalen Code ersetzen. 
 Kann funktionalen Code lesen, verstehen und warten bzw. erweitern.
 Kennt die funktionalen Elemente einer gängigen OO-Sprache und kann so Applikationen mit beiden Paradigmen in Mischform entwickeln.
+Kann bekannte programmiersprachen daraufhin untersuchen, ob diese funktionales programmieren ermöglichen, und lambdas und closures unterstützen.  
 
 # Funktional Programmieren (vorher:Deklaratives Programmieren)
 
