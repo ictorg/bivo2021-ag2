@@ -7,14 +7,15 @@
 
 Funktioniert so lange gut, wie die Spezifikationen des Endzustands klar definiert sind und ein passendes Ausführungsverfahren existiert, also z.B. für Algorithmen (M411)
 
-Kennt Unterschied zw. funktionaler(deklarativer) und imperativer Programmierung.
-Kennt Vor- und Nachteile funktionaler Programmierung.
-Kennt Methoden um Endzustand zu spezifizieren.
-Kann eine bestehende funktionale Einheit durch eine verbesserte Variante austauschen ohne dass Seiteneffekte entstehen.
-Kann geeigneten imprativ verfassten Code durch funktionalen Code ersetzen. 
-Kann funktionalen Code lesen, verstehen und warten bzw. erweitern.
-Kennt die funktionalen Elemente einer gängigen OO-Sprache und kann so Applikationen mit beiden Paradigmen in Mischform entwickeln.
-Kann bekannte programmiersprachen daraufhin untersuchen, ob diese funktionales programmieren ermöglichen, und lambdas und closures unterstützen.  
+Kennt Unterschied zw. funktionaler(deklarativer) und imperativer Programmierung.  
+Kennt Vor- und Nachteile funktionaler Programmierung.  
+Kennt Methoden um Endzustand zu spezifizieren.  
+Kann eine bestehende funktionale Einheit durch eine verbesserte Variante austauschen ohne dass Seiteneffekte entstehen.  
+Kann geeigneten imprativ verfassten Code durch funktionalen Code ersetzen.   
+Kann funktionalen Code lesen, verstehen und warten bzw. erweitern.  
+Kennt die funktionalen Elemente einer gängigen OO-Sprache und kann so Applikationen mit beiden Paradigmen in Mischform entwickeln.   
+Kann bekannte Programmiersprachen daraufhin untersuchen, ob diese funktionales Programmieren ermöglichen, und Lambdas und Closures unterstützen.  
+Kennt wesentliche Begriffe aus dem funktionalen Programmieren, wie Lamda-Expression, Function, Functor, Closure und kann diese in Beschreibungen korrekt verwenden.
 
 # Funktional Programmieren (vorher:Deklaratives Programmieren)
 
