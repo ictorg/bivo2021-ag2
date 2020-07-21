@@ -1,7 +1,7 @@
 # Funktional Programmieren (vorher:Deklaratives Programmieren)
 
 ## Kompetenz
-Schnittstellen und Teile von Applikationen deklarativ beschreiben und funktional implementieren.
+Algorithmen und Teile von Applikationen deklarativ beschreiben und funktional implementieren.
 
 ## Handlungsziel und Handlungsnotwendige Kenntnisse
 1. Analysiert und beschreibt Anforderungen, so dass eine Realisierung in funktionaler Programmierung erfolgen kann. 
@@ -17,15 +17,11 @@ Schnittstellen und Teile von Applikationen deklarativ beschreiben und funktional
 1. Verbessert und optimiert bestehenden imperativ implementierten Code durch Anwendung von funktionaler Programmierung.
    1. Kann bekannte Programmiersprachen daraufhin untersuchen, ob diese funktionales Programmieren ermöglichen, und Lambdas und Closures unterstützen. 
    1. Kennt die funktionalen Elemente einer gängigen OO-Sprache und kann so Applikationen mit beiden Paradigmen in Mischform entwickeln. 
-   1. Kann geeigneten imprativ verfassten Code durch funktionalen Code ersetzen.  
+   1. Kann geeigneten imprativ verfassten Code durch funktionalen Code ersetzen und so verbessern.  
 1. Überprüft Implementierung auf Korrektheit und Qualität
    1. Kann funktional implementierten Code unittesten.  
-   1. Kennt die Coderichtlinien und hält diese ein.
-   1. Kennt Best-Practices für funktionale Programmierung und kann diese anwenden.
-1. Kennt geeignete Entwicklungs- und Laufzeitumgebung und richtet sie anhand des Realisierungskonzepts sowie Firmenvorgaben ein. 
-  1. Kennt die deklarativen logischen und funktionalen Programmiersprachen und wendet sie effizient gemäss den Vorgaben für Back-End und Front-End Programme an. 
-  1. Kennt Softwareverwaltungssysteme und wendet diese für die Änderungen und Erweiterungen der Implementierung übersichtlich und zuverlässig an.
-  1. Kennt Methoden und Techniken um das Realisierungskonzept nachvollziehbar anzupassen.
+   1. Kennt geeignete Coderichtlinien und hält diese knsequent ein.
+   1. Kennt Best-Practices für funktionale Programmierung und kann diese anwenden und begründen.
 
 ## Kompetenzfeld
 Applikationsentwicklung
