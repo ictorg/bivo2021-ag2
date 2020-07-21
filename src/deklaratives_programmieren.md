@@ -6,10 +6,9 @@
 * https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/ *
 
 Funktioniert so lange gut, wie die Spezifikationen des Endzustands klar definiert sind und ein passendes Ausführungsverfahren existiert, also z.B. für Algorithmen (M411)
-
-Kennt Unterschied zw. funktionaler(deklarativer) und imperativer Programmierung.  
-Kennt Vor- und Nachteile funktionaler Programmierung.  
-Kennt Methoden um Endzustand zu spezifizieren.  
+ 
+ 
+ 
 Kann eine bestehende funktionale Einheit durch eine verbesserte Variante austauschen ohne dass Seiteneffekte entstehen.  
 Kann geeigneten imprativ verfassten Code durch funktionalen Code ersetzen.   
 Kann funktionalen Code lesen, verstehen und warten bzw. erweitern.  
@@ -24,18 +23,15 @@ Kennt das funktionale Programmierkonzept von filter-map-reduce und kann dieses i
 Schnittstellen und Teile von Applikationen deklarativ beschreiben und funktional implementieren.
 
 ## Handlungsziel und Handlungsnotwendige Kenntnisse
-1. Umsetzungsvarianten für Applikationen entwerfen und Lösung konzeptionell ausarbeiten.
-   1. Kennt grundlegende Umsetzungsvarianten in Bezug auf die Implementierung anhand von Skizzen und Beschreibungen.
-   1. Kennt in Möglichkeiten um in Zusammenarbeit mit dem Stakeholder eine nachvollziehbare Nutzwertanalyse mit sinnvollen, bewertbaren Entscheidungskriterien zu erstellen.
-   1. Kennt die Möglichkeiten zur Beratung mit den Stakeholder zur  Entscheidungsfindung für eine optimale, ethisch und rechtlich vertretbare Lösung zu finden.
-   1. Kennt die Möglichkeiten zur Erarbeitung eines fachlichen und technischen Realisierungskonzeptes anhand von geeigneten Hilfsmitteln.
-   1. Kennt Methoden und Techniken zur Durchführung einer Machbarkeitsanalyse für die gewählte Umsetzungsvariante. (K4)
+1. Analysiert und beschreibt Anforderungen, so dass eine Realisierung in funktionaler Programmierung erfolgen kann. 
+   1. Kennt den Unterschied zwischen imperativer und deklarativer/funktionaler Programmierung (Programmierpardaigma).
+   1. Hat Verständnis für deklarative Denkweise.
+   1. Kennt Vor- und Nachteile funktionaler Programmierung. 
+   1. Kennt Methoden um Endzustand zu spezifizieren  
+   1. Kennt Möglichkeiten zur Erarbeitung eines für die funktionale Programmierung geeigneten Realisierungskonzeptes.
 1. Applikationen und Schnittstellen gemäss Entwurf implementieren und dabei die Sicherheitsanforderungen erfüllen.
-1. Kennt geeignete Entwicklungs- und Laufzeitumgebung und richtet sie anhand des Realisierungskonzepts sowie Firmenvorgaben ein.
-  1. Sie programmieren ein Back-End mittels vorgegebener Programmiersprachen effizient, strukturiert und gemäss den relevanten Vorgaben.
-  1. Sie programmieren ein Front-End mittels vorgegebener Programmiersprachen effizient, strukturiert und gemäss den relevanten Vorgaben. 
+1. Kennt geeignete Entwicklungs- und Laufzeitumgebung und richtet sie anhand des Realisierungskonzepts sowie Firmenvorgaben ein. 
   1. Kennt die deklarativen logischen und funktionalen Programmiersprachen und wendet sie effizient gemäss den Vorgaben für Back-End und Front-End Programme an. 
-  1. Kennt die funktionalen und nicht-funktionalen Anforderungen, überprüft Zwischenergebnisse und nimmt laufend Korrekturen vor.
   1. Kennt die Coderichtlinien und hält diese ein.
   1. Kennt Softwareverwaltungssysteme und wendet diese für die Änderungen und Erweiterungen der Implementierung übersichtlich und zuverlässig an.
   1. Kennt Methoden und Techniken um das Realisierungskonzept nachvollziehbar anzupassen.
