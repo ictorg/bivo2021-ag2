@@ -19,8 +19,7 @@ Applikationen und Schnittstellen objektorientiert modellieren, implementieren, t
    1. Kennt Verfahren zum Erstellen von Testfällen.
    1. Kennt Testmethoden zur Überprüfung der Komponenten einer Anwendung (automatisches Unit-Testing).
 1. Dokumentiert objektorientiertes Design einer Anwendung.
-   1. Kennt die Möglichkeiten der Dokumentationsinfrastruktur.
-   1. Kennt das Dokumentieren von Programmeinheiten gemäss Vorgaben (Javadoc).
+   1. Kennt das Dokumentieren mit einer Dokumentationsinfrastruktur (Javadoc).
 
 ## Kompetenzfeld
 Applikationsentwicklung
