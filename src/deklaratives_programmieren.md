@@ -1,4 +1,4 @@
-# Funktionale Programmierung
+# Funktionales Programmieren
 
 ## Kompetenz
 Algorithmen und Teile von Applikationen deklarativ beschreiben und funktional implementieren.
