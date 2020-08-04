@@ -12,16 +12,15 @@ Applikationen und Schnittstellen objektorientiert modellieren, implementieren, t
    1. Kennt Beschreibungen für objektorientiertes Design (UML).
    1. Kennt Diagrammnotation zur Abbildung von dynamischen und statischen Strukturen einer objektorientierten Anwendung (UML). 
 1. Implementiert objektorientiertes Design. 
-   1. Kennt eine objektorientierte Sprache und deren Elemente und kann diese effizient nutzen.
    1. Kennt den Unterschied zwischen Klassen und Objekten.
-   1. Versteht das Konzept der dynamischen Bindung.
+   1. Kennt eine objektorientierte Sprache und deren Elemente und kann damit den Design umsetzen.
+   1. Kennt das Konzept der dynamischen Bindung.
 1. Überprüft die Implementierung auf Korrektheit und Qualität.
-   1. Implementiert automatisierte Testfälle für die funktionalen Einheiten einer Anwendung.
-   1. Kennt ein Verfahren zum Erstellen der Testfälle der funktionalen Einheiten.
-   1. Kennt die zur Verfügung gestellten Mittel einer Testinfrastruktur, um die Testfälle zu implementieren.
-1. Dokumentiert objektorientiertes Design einer Anwendung systematisch, unter Verwendung der hierfür vorgesehenen Infrastruktur.
-   1. Kennt die Möglichkeiten der Dokumentationsinfrastruktur und weiss wie die Pro-grammeinheiten gemäss Vorgaben zu dokumentieren sind.
-   1. Kennt den Nutzen von Api-Dokumentationen und weiss wie diese erzeugt werden.
+   1. Kennt Verfahren zum Erstellen von Testfällen.
+   1. Kennt Testmethoden zur Überprüfung der Komponenten einer Anwendung (automatisches Unit-Testing).
+1. Dokumentiert objektorientiertes Design einer Anwendung.
+   1. Kennt die Möglichkeiten der Dokumentationsinfrastruktur.
+   1. Kennt das Dokumentieren von Programmeinheiten gemäss Vorgaben (Javadoc).
 
 ## Kompetenzfeld
 Applikationsentwicklung
