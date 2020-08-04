@@ -5,14 +5,13 @@ Applikationen und Schnittstellen objektorientiert modellieren, implementieren, t
 
 ## Handlungsziele und handlungsnotwendige Kenntnisse
 1. Analysiert Anwendungsprobleme zur Erstellung von objektorientierten Programmen.
-   1. Kennt den objektorientierten Ansatz mit den Grundkonzepten Datenkapselung, Polymorphie und Vererbung.
-   1. Kennt Abstraktionsmittel wie Assoziationen, Klassen, Attribute und Methoden, mit denen die reale Welt im Design abgebildet wird.
-   1. Kennt Konzepte (Klassen, abstrakte Klassen und Schnittstellen) zur Erstellung von abstrakten Datentypen (ADT).
+   1. Kennt den objektorientierten Ansatz mit den Grundkonzepten Kapselung, Vererbung und Polymorphie.
    1. Kennt Vorgehensprinzipien zur Klassenfindung nach dem Prinzip von Spezialisierung/Generalisierung.
-1. Modelliert objektorientierte Programme mittels Unified Modeling Language (UML).
-   1. Kennt UML-Diagrammnotation zur Abbildung von dynamischen und statischen Strukturen einer objektorientierten Anwendung.
-   1. Kann ein objektorientiertes Design mittels UML beschreiben.
-1. Implementiert objektorientiertes Design.
+   1. Kennt Abstraktionskonzepte wie Assoziationen, Klassen, abstrakte Klassen und Datentypen (ADT), Schnittstellen, Attribute und Methoden.
+1. Modelliert objektorientierte Programme.
+   1. Kennt Beschreibungen für objektorientiertes Design (UML).
+   1. Kennt Diagrammnotation zur Abbildung von dynamischen und statischen Strukturen einer objektorientierten Anwendung (UML). 
+1. Implementiert objektorientiertes Design. 
    1. Kennt eine objektorientierte Sprache und deren Elemente und kann diese effizient nutzen.
    1. Kennt den Unterschied zwischen Klassen und Objekten.
    1. Versteht das Konzept der dynamischen Bindung.
