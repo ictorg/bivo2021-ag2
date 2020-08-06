@@ -8,7 +8,7 @@ Verteilte Systeme analysieren, verstehen, planen, erweitern und anwenden, sowie 
    1. Kennt Begriffe die im Bezug mit verteilten Systemen verwendet werden (z. B. Cloud-Native, Cloud-Functions).
    1. Kennt die Eigenschaften von verteilten Systemen (Rechnerverbund).
    1. Kennt Systemarchitekturen zur Softwareentwicklung (z. B. Monolith, Microservices, Client-Server, Peer to Peer).
-   1. Kennt Vorgehensweisen um Softwaresysteme zu migrieren (z. B. Strangler-Pattern, Big Bang)
+   1. Kennt Vorgehensweisen um Softwaresysteme zu migrieren (z. B. Strangler-Pattern, Big Bang).
 1. Verwendet Systemkomponenten in verteilten Systemen.
    1. Kennt Kategorien von Systemkomponenten (z. B. Identitätsverwaltung, Ereignisverwaltung, Monitoring, Datenhaltung, Lastenverteilung).
    1. Kennt aktuelle Technologien für die jeweiligen Kategorien für Systemkomponenten (z.B. KeyCloak, LogStash, Prometheus, Redis, Minio, Traefik, Caddy).
@@ -20,7 +20,7 @@ Verteilte Systeme analysieren, verstehen, planen, erweitern und anwenden, sowie 
    1. Kennt Mechanismen für Authentifizierung und Autorisierung (z. B. JWT, oAuth).   
 1. Implementiert Systemkomponenten in einem verteilten System und überprüft deren Funktion.
    1. Kennt Werkzeuge um Softwareanforderungen in einem verteilten System zu implementieren (z.B. Amazon Web Services, Microsoft Azure, Google Cloud).
-   1. Kennt Methoden zur horizontalen und vertikalen Skalierung von verteilten Systemkomponenten
+   1. Kennt Methoden zur horizontalen und vertikalen Skalierung von verteilten Systemkomponenten.
    1. Kennt Mittel um einzelne Systemteile und verteilte Systeme, sowie deren Schnittstellen zu dokumentieren (z. B. Swagger).
    1. Kennt Vorgehensweisen um die Funktionstüchtigkeit von verteilten Systemen zu überprüfen (z. B. Health-Check, Situationsanalyse, automatisierte und manuelle Tests).
 

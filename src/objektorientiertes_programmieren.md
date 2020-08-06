@@ -9,9 +9,9 @@ Applikationen und Schnittstellen objektorientiert modellieren, implementieren, t
    1. Kennt Vorgehensprinzipien zur Klassenfindung nach dem Prinzip von Spezialisierung und Generalisierung.
    1. Kennt Abstraktionskonzepte wie Assoziationen, Klassen, abstrakte Klassen und Datentypen (ADT), Schnittstellen, Attribute und Methoden.
 1. Modelliert und dokumentiert objektorientierte Programme.
-   1. Kennt Beschreibungen für objektorientiertes Design (z.B. UML).
+   1. Kennt Beschreibungen für objektorientiertes Design (z. B. UML).
    1. Kennt Diagrammnotation zur Abbildung von dynamischen und statischen Strukturen einer objektorientierten Anwendung. 
-   1. Kennt das Dokumentieren mit einer Dokumentationsinfrastruktur (z.B. Javadoc).
+   1. Kennt das Dokumentieren mit einer Dokumentationsinfrastruktur (z. B. Javadoc).
 1. Implementiert objektorientiertes Design. 
    1. Kennt den Unterschied zwischen Klassen und Objekten.
    1. Kennt eine objektorientierte Sprache und deren Elemente und kann damit den Design umsetzen.
