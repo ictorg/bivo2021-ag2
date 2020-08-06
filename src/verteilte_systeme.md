@@ -28,16 +28,13 @@ Verteilte Systeme analysieren, verstehen, planen, erweitern und anwenden, sowie 
 Applikationsentwicklung
 
 ## Objekt
-Entwickeln von Systemkomponenten in verteilten (Client-Server-)Systemen.
+Entwickeln von Systemkomponenten in verteilten Systemen, wie eine Zeiterfassung mit der Anbindung von fertigen Systemkomponenten zur Authentifizierung und Autorisierung, sowie einem Dienst zur persistenten Datenhaltung.
 
 ## Niveau
 3
 
 ## Voraussetzungen
-M117 "Grundlagen Netzinfrastruktur" , Mxxx "Einstieg in Webentwicklung")
-
-M120, M183, Grundlagen Cloud und Services ,...
-/* Kommentar H.Mü 15.7.2020:   --> Antrag: streichen*/
+117
 
 ## Anzahl Lektionen
 40
