@@ -22,7 +22,7 @@ Verteilte Systeme analysieren, verstehen, planen, erweitern und anwenden, sowie 
    1. Kennt Werkzeuge um Softwareanforderungen in einem verteilten System zu implementieren (z.B. Amazon Web Services, Microsoft Azure, Google Cloud).
    1. Kennt Methoden zur horizontalen und vertikalen Skalierung von verteilten Systemkomponenten
    1. Kennt Mittel um einzelne Systemteile und verteilte Systeme, sowie deren Schnittstellen zu dokumentieren (z. B. Swagger).
-   1. Kennt Vorgehensweisen um die Funktionstüchtigkeit von verteilten Systemen zu überprüfen (z. B. Health-Check, Situationsanalyse, automatisiertes Testen).
+   1. Kennt Vorgehensweisen um die Funktionstüchtigkeit von verteilten Systemen zu überprüfen (z. B. Health-Check, Situationsanalyse, automatisierte und manuelle Tests).
 
 ## Kompetenzfeld
 Applikationsentwicklung
