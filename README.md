@@ -20,3 +20,4 @@ In diesem Repository geschieht die Erarbeitung der neuen Module wofür die Arbei
 
 ## Links
  - Kommunikation via Teams Channel <br> https://teams.microsoft.com/_#/conversations/AG%202?threadId=19:344ca3a048e94349b14fe917385e3050@thread.skype&ctx=channel
+ - Verteilte Systeme: https://aim42.github.io/
